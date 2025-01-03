@@ -1,0 +1,14 @@
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\bin\Debug\net8.0\Day_1.exe
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\bin\Debug\net8.0\Day_1.deps.json
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\bin\Debug\net8.0\Day_1.runtimeconfig.json
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\bin\Debug\net8.0\Day_1.dll
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\bin\Debug\net8.0\Day_1.pdb
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\obj\Debug\net8.0\Day_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\obj\Debug\net8.0\Day_1.AssemblyInfoInputs.cache
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\obj\Debug\net8.0\Day_1.AssemblyInfo.cs
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\obj\Debug\net8.0\Day_1.csproj.CoreCompileInputs.cache
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\obj\Debug\net8.0\Day_1.dll
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\obj\Debug\net8.0\refint\Day_1.dll
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\obj\Debug\net8.0\Day_1.pdb
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\obj\Debug\net8.0\Day_1.genruntimeconfig.cache
+C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_1\Day_1\Day_1\obj\Debug\net8.0\ref\Day_1.dll
