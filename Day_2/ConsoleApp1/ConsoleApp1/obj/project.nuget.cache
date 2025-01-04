@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "emz12hG8/+4=",
+  "dgSpecHash": "Dkf8BuFOnHY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivoxm\\OneDrive\\Ambiente de Trabalho\\AOC++\\Day_2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/xubaca/Desktop/CSharp/AdventOfCode2024/Day_2/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/xubaca/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/home/xubaca/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/home/xubaca/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.11/microsoft.netcore.app.host.linux-x64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

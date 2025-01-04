@@ -1,14 +1,22 @@
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
-C:\Users\ivoxm\OneDrive\Ambiente de Trabalho\AOC++\Day_2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.exe
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+C:/Users/ivoxm/OneDrive/Ambiente de Trabalho/AOC++/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/home/xubaca/Desktop/CSharp/AdventOfCode2024/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/xubaca/Desktop/CSharp/AdventOfCode2024/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/xubaca/Desktop/CSharp/AdventOfCode2024/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/xubaca/Desktop/CSharp/AdventOfCode2024/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/xubaca/Desktop/CSharp/AdventOfCode2024/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/home/xubaca/Desktop/CSharp/AdventOfCode2024/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/xubaca/Desktop/CSharp/AdventOfCode2024/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/xubaca/Desktop/CSharp/AdventOfCode2024/Day_2/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
